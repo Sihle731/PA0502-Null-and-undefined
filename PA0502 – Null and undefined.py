@@ -1,7 +1,7 @@
 '''Declare a variable called email
 Do not assign a value
 Print it'''
-
+email = 
 print(email)
 
 
